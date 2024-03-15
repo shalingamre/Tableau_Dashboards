@@ -4,3 +4,4 @@ This is my Tableau project where I have worked with multiple datasets to create 
 2.Created worksheets
 3.Analysed total sales
 4.Created interactive dashboards
+5.created various types of visualizations
